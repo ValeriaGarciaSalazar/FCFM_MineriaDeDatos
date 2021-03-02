@@ -8,7 +8,7 @@
 
 [Ej_Python](https://github.com/ValeriaGarciaSalazar/FCFM_MineriaDeDatos/blob/main/Ej_Python_1850355.ipynb)
 
-
+[Limpieza](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Limpieza.ipynb)
 
 
 ## Fase II
