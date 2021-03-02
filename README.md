@@ -8,9 +8,9 @@
 
 [Ej_Python](https://github.com/ValeriaGarciaSalazar/FCFM_MineriaDeDatos/blob/main/Ej_Python_1850355.ipynb)
 
-[Limpieza_01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
+[Limpieza(1raBase)_01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
 
-[Limpieza_02](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
+[Limpieza(2daBase)_02](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
 
 ## Fase II
 ## Fase III
