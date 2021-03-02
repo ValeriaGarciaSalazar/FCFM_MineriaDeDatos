@@ -10,7 +10,7 @@
 
 [Limpieza(1raBase)_01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
 
-[Limpieza(2daBase)_02](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
+[Limpieza(2daBase)_01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
 
 ## Fase II
 ## Fase III
