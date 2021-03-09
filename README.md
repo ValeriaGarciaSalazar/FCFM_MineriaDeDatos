@@ -12,5 +12,7 @@
 
 [Limpieza(2daBase)_01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
 
+[Avance_PIA_Equipo01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance_PIA_Equipo1%20(1).ipynb)
+
 ## Fase II
 ## Fase III
