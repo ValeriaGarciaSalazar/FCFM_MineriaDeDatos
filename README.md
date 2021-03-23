@@ -15,4 +15,9 @@
 [Avance_PIA_Equipo01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance_PIA_Equipo1%20(1).ipynb)
 
 ## Fase II
+
+[Técnica_Visualización](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Presentación_Visualización_01.pdf)
+
+[Mini_Examenes](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Resultados%20kahoot%20visualizaci%C3%B3n.pdf)
+
 ## Fase III
