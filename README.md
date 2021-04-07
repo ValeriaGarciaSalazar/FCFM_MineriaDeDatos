@@ -20,4 +20,8 @@
 
 [Mini_Examenes](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Resultados%20kahoot%20visualizaci%C3%B3n.pdf)
 
+[Visualización_01]
+
+[Avance_PIA_II_Equipo01]
+
 ## Fase III
