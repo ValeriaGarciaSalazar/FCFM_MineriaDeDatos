@@ -20,7 +20,7 @@
 
 [Mini_Examenes](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Resultados%20kahoot%20visualizaci%C3%B3n.pdf)
 
-[Mapa_Mental_II]()
+[Mapa_Mental_II](https://github.com/ValeriaGarciaSalazar/FCFM_MineriaDeDatos/blob/main/MapaMental_2_1850355.pdf)
 
 [Visualización_01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Visualizaci%C3%B3n1%20.ipynb)
 
