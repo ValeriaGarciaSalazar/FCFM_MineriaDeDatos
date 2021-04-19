@@ -26,4 +26,6 @@
 
 [Avance_PIA_II_Equipo01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/AvancePIA_II_Grupo3_01.ipynb)
 
+[Avance_PIA_II_Equipo01_Rev]()
+
 ## Fase III
