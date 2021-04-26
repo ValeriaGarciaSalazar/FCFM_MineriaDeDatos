@@ -30,4 +30,4 @@
 
 ## Fase III
 
-[Avance_poster](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance%20poster%20.pptx)
+[Avance_poster](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance%20poster%20.pdf)
